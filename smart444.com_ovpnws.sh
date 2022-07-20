@@ -1,5 +1,5 @@
 #!/bin/bash
-cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
+cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 #Database Details
 HOST='66.45.228.57';
 USER='mahadivp_smartpanel5';
